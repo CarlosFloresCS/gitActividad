@@ -81,3 +81,7 @@ remote:
 To https://github.com/CarlosFloresCS/gitActividad.git
  * [new branch]      feature2 -> feature2
 rama 'feature2' configurada para rastrear 'origin/feature2'.
+
+# Version gráfica (git graph) 
+![image](https://github.com/CarlosFloresCS/gitActividad/assets/89984629/e54f2c8a-1a20-47f6-b129-262da0474805)
+

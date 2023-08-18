@@ -1,3 +1,5 @@
+# Aclaracion
+Mi compañero fernando no tenia su laptop por eso hicimos el trabajo en mi local, es por ello que la terminal de ambos es la misma.
 # INTEGRANTES
 - Carlos Alonso Flores Panduro
 - Fernando Adriano Choqque Mejía
